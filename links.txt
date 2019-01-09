@@ -16,12 +16,14 @@ o ram: 16GB of  DDR3L-1866 memory
 o Fanless chassis with an all-metal design
   with aluminum and zinc die cast parts
 o Windows 10, FreeBSD, or other GNU/Linux-based operating systems.
-o dimensions: 4.4″ x 3.3″ x 1.3″ (112mm x 84mm)
+o dimensions: 4.4″ x 3.3″ x 1.3″ (112mm x 84mm x 25mm)
 o net: 2x Gigabit ports
 o wifi: 802.11ac WiFi and Bluetooth 4.2
 o Supports M.2 2260/2242 SATA III SSDs
 o 2x mini DisplayPort outputs with support for 4K 60Hz video
-  and one HDMI 1.4 output with 4K/30Hz support
+  Dual head:
+    mini DP 1.2 4K @ 60 Hz
+    HDMI 1.4 4K @ 30 Hz
 o ports: USB 3.0 and two USB 2.0 ports, headset and line-out jacks, 
          a microSD card reader
 o weight: 12 ounces
@@ -47,3 +49,6 @@ http://fit-pc.com/wiki/index.php?title=Fitlet2
 
 fitPC Wiki
 http://fit-pc.com/wiki/index.php/Main_Page
+
+Latest specs
+www.fit-iot.com/web/products/fitlet2/fitlet2-specifications/ 
