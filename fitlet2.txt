@@ -17,18 +17,30 @@ o Brand: fitlet
 o Series: fitlet2 E3950 Barebone
 o Model number: FITLET2-CE3950
 o CPU: Atom x7-E3950 quad-core 1.6Ghz
+
 o Ram: Max 16GB DDR3 SDRAM
+       1x SO-DIMM 204-pin DDR3L SDRAM
+       Up to 16GB Non-ECC DDR3L-1866 (1.35V)
+       fitlet2-owners-manual.pdf, p. 5       
+
+o Up to 16 GB RAM (DDR3L single SODIMM, not included)
+
 o Graphics coprocessor: Intel HD Graphics 505
 o Dual display HDMI + mini-DP
 o Dual Gbit Ethernet (Intel i211)
-o Up to 16 GB RAM (DDR3L single SODIMM, not included)
-o M.2 2260 SATA SSD (not included)
+
+o Storage: M.2 2260 SATA SSD (not included)
+           1x M.2 M-key 2242 | 2260 <===
+           Optional eMMC
+           Optional 2.5” HDD | SSD 
+
 o Hard drive interface: Serial ATA-600
 o Weight: 1.49 pounds
 o Dimensions: 7.3 x 5.1 x 2.6 inches
 o Processor brand: Intel
 o First availabe: January 6, 2018
 o ASIN: B0795V4W5G
+o Power consumption: 5W to 15W
 o Rated: 4.8 out of 5 stars 
 
 
