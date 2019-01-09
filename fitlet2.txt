@@ -1,0 +1,7 @@
+fitlet2.txt
+Created Wed Jan  9 12:55:38 AST 2019
+by Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+Fitlet2 fanless system
+
