@@ -5,3 +5,59 @@ by Raymond E. Marcil <ray.marcil@alaska.gov>
 
 Fitlet2 fanless system
 
+
+Fitlet2                        - $199.00
+Crucial 16GB Single DDR3L      - $153.99
+Transcend 256GB SATA III 6Gb/s -  $98.99
+                        ----------------
+                        Total:   $451.98
+
+
+o Brand: fitlet
+o Series: fitlet2 E3950 Barebone
+o Model number: FITLET2-CE3950
+o CPU: Atom x7-E3950 quad-core 1.6Ghz
+o Ram: Max 16GB DDR3 SDRAM
+o Graphics coprocessor: Intel HD Graphics 505
+o Dual display HDMI + mini-DP
+o Dual Gbit Ethernet (Intel i211)
+o Up to 16 GB RAM (DDR3L single SODIMM, not included)
+o M.2 2260 SATA SSD (not included)
+o Hard drive interface: Serial ATA-600
+o Weight: 1.49 pounds
+o Dimensions: 7.3 x 5.1 x 2.6 inches
+o Processor brand: Intel
+o First availabe: January 6, 2018
+o ASIN: B0795V4W5G
+o Rated: 4.8 out of 5 stars 
+
+
+price: $199.00 (amazon prime - Wed Jan 9, 2019)
+       https://www.amazon.com/fitlet-FITLET2-CE3950-fitlet2-E3950-Barebone/dp/B0795V4W5G
+
+
+M.2 2260
+========
+Like the looks of 256GB:
+  Crucial 16GB Single DDR3L 1600 MT/s (PC3L-12800)
+  204-Pin SODIMM Memory - CT204864BF160B
+  by Crucial
+  $153.99 (amazon prime - Wed Jan. 9, 2018)
+
+  Transcend 256GB SATA III 6Gb/s MTS400 42 mm
+  M.2 SSD Solid State Drive (TS256GMTS400S)
+  by Transcend
+  $98.99 (amazon prime - Wed Jan. 9, 2018)
+
+Others bought:
+  Crucial 8GB Single DDR3/DDR3L 1600 MT/S (PC3-12800)
+  Unbuffered SODIMM 204-Pin Memory - CT102464BF160B
+  by Crucial
+  price: $57.20 (amazon prime - Wed Jan. 9, 2018)
+
+  Transcend 64GB SATA III 6Gb/s MTS400 42 mm
+  M.2 SSD Solid State Drive (TS64GMTS400S)
+  by Transcend
+  price: $31.99 (amazon prime - Wed Jan. 9, 2018)
+
+
