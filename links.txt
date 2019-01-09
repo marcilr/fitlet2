@@ -1,0 +1,49 @@
+links.txt
+Created Wed Jan  9 12:21:22 AST 2019
+by Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+Fitlet2 related links
+
+
+Links
+=====
+fanless mini PC with Linux
+Mintbox Mini 2 launches for $299 and up (fanless mini PC with Linux Mint software)
+06/27/2018 at 12:40 PM by Brad Linder
+o cpu: quad-core Apollo-Lake Atom
+o ram: 16GB of  DDR3L-1866 memory
+o Fanless chassis with an all-metal design
+  with aluminum and zinc die cast parts
+o Windows 10, FreeBSD, or other GNU/Linux-based operating systems.
+o dimensions: 4.4″ x 3.3″ x 1.3″ (112mm x 84mm)
+o net: 2x Gigabit ports
+o wifi: 802.11ac WiFi and Bluetooth 4.2
+o Supports M.2 2260/2242 SATA III SSDs
+o 2x mini DisplayPort outputs with support for 4K 60Hz video
+  and one HDMI 1.4 output with 4K/30Hz support
+o ports: USB 3.0 and two USB 2.0 ports, headset and line-out jacks, 
+         a microSD card reader
+o weight: 12 ounces
+o 5-year warranty
+o Same design as CompuLab’s fitlet2 computers which means it supports
+“FACET” cards (Function And Connectivity Extension T-Card) that can
+bring additional functionality such as support for a 2.5″ hard drive,
+Power over Ethernet, a 4GB modem, or additional USB ports.
+o 2.5″ storage device requires a special FACET card and raised bottom cover
+o mounting options: VESA and DIN-rail mounting
+o fitlet2 availability is 15 years
+https://liliputing.com/2018/06/mintbox-mini-2-launches-for-299-and-up-fanless-mini-pc-with-linux-mint-software.html
+
+fitlet2 computers
+https://fit-iot.com/web/products/fitlet2/
+===> https://fit-iot.com/web/
+
+firlet2 Owner's Manual
+https://s3.amazonaws.com/fit-iot/fitlet2/docs/fitlet2-owners-manual.pdf
+
+fitlet2 Wiki
+http://fit-pc.com/wiki/index.php?title=Fitlet2
+
+fitPC Wiki
+http://fit-pc.com/wiki/index.php/Main_Page
