@@ -79,6 +79,12 @@ http://fit-pc.com/wiki/index.php/Main_Page
 Latest specs
 www.fit-iot.com/web/products/fitlet2/fitlet2-specifications/ 
 
+Micron M600 256GB 2260 M.2 NAND Flash SATA 6.0Gb/s
+SSD (560MB/s Read / 510MB/s Write) [PN: 
+MTFDDAY256MBF-1AN12ABYY]
+by Crucial
+price: $277.77 (amazon prime - Thu Jan. 10, 2018)
+
 MintBox Mini 2    <=== Solid review
 MARCH 23, 2018 BY CLEM
 o completely silent and it has no fans or moveable parts
@@ -103,3 +109,7 @@ o 256GB
 o price: $49.99 (amazon prime - Thu Jan. 10, 2019)
 https://www.amazon.com/Samsung-MUF-64AB-AM-Plus-64GB/dp/B07D7Q41PM/ref=pd_lpo_vtph_147_lp_t_3?_encoding=UTF8&refRID=E5278R44ZFCEKEDWYGE1&th=1
 
+Transcend 256GB SATA III 6Gb/s MTS400 42 mm <===
+M.2 SSD Solid State Drive (TS256GMTS400S)
+by Transcend
+price: $98.99 $49.99 (amazon prime - Thu Jan. 10, 2019)
