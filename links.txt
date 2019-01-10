@@ -71,3 +71,21 @@ http://fit-pc.com/wiki/index.php/Main_Page
 
 Latest specs
 www.fit-iot.com/web/products/fitlet2/fitlet2-specifications/ 
+
+MintBox Mini 2    <=== Solid review
+MARCH 23, 2018 BY CLEM
+o completely silent and it has no fans or moveable parts
+o front of the unit provides two USB 3.0 ports, audio and micro jacks and a microSD slot.
+o front also has two LEDs, which can be Green, Orange, Green and Orange or which can be
+  turned OFF.  This is done via GPIO.  If you know how to program or you’re OK with bash
+  scripting, you’ll be able to take full advantage of this and use these LEDs as indicators
+  (for incoming emails, internal core temperature, updates available… etc).
+o faster USB 3.0 ports at the front for external storage devices.
+o back we find the following ports: two USB 2.0, two Gigabit Ethernet, RS232 serial port,
+  HDMI 1.4 (4K@30Hz) and mini-DP 1.2 (4K@60Hz).
+o second HDMI port with a Mini DisplayPort makes the unit more versatile and allows it
+  to connect to more than 2 monitors.
+o Intel 8260 chipset provides WiFi 802.11ac and Bluetooth 4.2.
+o RAM is upgradeable to 16GB
+o CPU is a quad-core Apollo-Lake Intel Celeron J3455 with embedded Intel HD Graphics 500.
+Nice review and details
