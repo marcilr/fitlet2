@@ -26,7 +26,6 @@ by AmazonBasics
 price: $5.99 (amazon prime - Wed Jan 9, 2019)
 
 
-
 fanless mini PC with Linux
 Mintbox Mini 2 launches for $299 and up (fanless mini PC with Linux Mint software)
 06/27/2018 at 12:40 PM by Brad Linder
@@ -89,3 +88,10 @@ o Intel 8260 chipset provides WiFi 802.11ac and Bluetooth 4.2.
 o RAM is upgradeable to 16GB
 o CPU is a quad-core Apollo-Lake Intel Celeron J3455 with embedded Intel HD Graphics 500.
 Nice review and details
+
+Samsung MUF-256AB/AM FIT Plus 256GB - 300MB/s USB 3.1 Flash Drive
+by Samsung
+o 256GB
+o price: $49.99 (amazon prime - Thu Jan. 10, 2019)
+https://www.amazon.com/Samsung-MUF-64AB-AM-Plus-64GB/dp/B07D7Q41PM/ref=pd_lpo_vtph_147_lp_t_3?_encoding=UTF8&refRID=E5278R44ZFCEKEDWYGE1&th=1
+
