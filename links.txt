@@ -73,6 +73,9 @@ https://s3.amazonaws.com/fit-iot/fitlet2/docs/fitlet2-owners-manual.pdf
 fitlet2 Wiki
 http://fit-pc.com/wiki/index.php?title=Fitlet2
 
+fitlet2 wireless
+https://fit-iot.com/web/product-category/fitlet2wireless/
+
 fitPC Wiki
 http://fit-pc.com/wiki/index.php/Main_Page
 
