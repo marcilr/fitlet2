@@ -1,0 +1,29 @@
+wireless.txt
+Created Fri Jan 11 08:46:42 AST 2019
+by Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+Fitlet2 wireless
+
+
+fitlet2 wireless
+https://fit-iot.com/web/product-category/fitlet2wireless/
+
+
+
+Links
+=====
+Fitlet2 wireless
+Has WiFi 802.11ac
+$24.00 (excl. VAT)
+https://fit-iot.com/web/product-category/fitlet2wireless/
+
+A WiFi kit for fitlet2
+Based on Intel 8260AC adapter.
+802.11ac + Bluetooth 4.2
+Includes side panel and 2x dual-band antennas.
+WiFi 802.11ac
+$24.00 (excl. VAT) 
+In stock
+order from amazon
+https://fit-iot.com/web/product/wifi-802-11ac/
