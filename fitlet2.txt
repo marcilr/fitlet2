@@ -12,11 +12,17 @@ Transcend 256GB SATA III 6Gb/s -  $98.99
                         ----------------
                         Total:   $451.98
 
+The key to success is likely the:
+  FC-CEM FACET-Card (M.2 + SIM for 3G/4G modem)
+  $33.00 (excl. VAT)
 
-o Brand: fitlet
-o Series: fitlet2 E3950 Barebone
+
+
+
+o Brand:        fitlet
+o Series:       fitlet2 E3950 Barebone
 o Model number: FITLET2-CE3950
-o CPU: Atom x7-E3950 quad-core 1.6Ghz
+o CPU:          Atom x7-E3950 quad-core 1.6Ghz
 
 o Ram: Max 16GB DDR3 SDRAM
        1x SO-DIMM 204-pin DDR3L SDRAM
@@ -35,12 +41,12 @@ o Storage: M.2 2260 SATA SSD (not included)
            Optional 2.5” HDD | SSD 
 
 o Hard drive interface: Serial ATA-600
-o Weight: 1.49 pounds
-o Dimensions: 7.3 x 5.1 x 2.6 inches
-o Processor brand: Intel
-o First availabe: January 6, 2018
-o ASIN: B0795V4W5G
-o Power consumption: 5W to 15W
+o Weight:               1.49 pounds
+o Dimensions:           7.3 x 5.1 x 2.6 inches
+o Processor brand:      Intel
+o First availabe:       January 6, 2018
+o ASIN:                 B0795V4W5G
+o Power consumption:    5W to 15W
 o Rated: 4.8 out of 5 stars 
 
 
@@ -73,3 +79,8 @@ Others bought:
   price: $31.99 (amazon prime - Wed Jan. 9, 2018)
 
 
+Links
+=====
+fanless, IoT technology
+by Compulab
+https://fit-iot.com/web/product-category/fitlet2facet/
