@@ -1,5 +1,5 @@
 fitlet2.txt
-Created Wed Jan  9 12:55:38 AST 2019
+Created Wed Jan  9 12:55:38 AKST 2019
 by Raymond E. Marcil <ray.marcil@alaska.gov>
 
 
@@ -15,7 +15,6 @@ Transcend 256GB SATA III 6Gb/s -  $98.99
 The key to success is likely the:
   FC-CEM FACET-Card (M.2 + SIM for 3G/4G modem)
   $33.00 (excl. VAT)
-
 
 
 
@@ -52,6 +51,38 @@ o Rated: 4.8 out of 5 stars
 
 price: $199.00 (amazon prime - Wed Jan 9, 2019)
        https://www.amazon.com/fitlet-FITLET2-CE3950-fitlet2-E3950-Barebone/dp/B0795V4W5G
+
+
+
+Wed Mar  6 18:13:52 AKST 2019
+=============================
+The fitlet2 arrived today.  Came with reciept and owners manual.
+Wow, very nice and very small.
+
+Came with a 12V 3000mA power adapter with 4 differnet plug
+attachments.  Very, very nice, well built and small.
+
+Will need to get a mini DP to hdmi cable adapter.
+
+
+Description                                      Quantity     Price
+-------------------------------------------------------------------
+FITLET2-CE3950-D16-HD0-FCEM S/N: 1190117-11655      1       $437.60
+Express shipping to North America                   1        $50.00
+                                                   ----------------
+                                                   Total:   $487.60                          
+
+
+Wed Jan  9 12:55:38 AKST 2019
+=============================
+Placed order for the fitlet2 as follows:
+
+Fitlet2                        - $199.00
+Crucial 16GB Single DDR3L      - $153.99
+Transcend 256GB SATA III 6Gb/s -  $98.99
+                        ----------------
+                        Total:   $451.98
+
 
 
 M.2 2260
