@@ -1,0 +1,24 @@
+specs.txt
+Created Sat Mar 16 13:36:22 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Specifications for CompuLab fitlet2
+
+
+o Intel Apollo Lake SoC: Atom x5-E3930, Celeron J3455, or Atom x7-E3950
+o Up to 16GB DDR3L-1866 Non-ECC (single SODIMM)
+o M.2 SATA storage
+o M.2 NGFF for WiFi or cellular modem
+o Dual Intel Gigabit Ethernet interfaces (Intel i211)
+o HDMI 1.4b and mini DisplayPort 1.2 outputs supporting 4K resolution
+o Two USB 2.0 and two USB 3.0 ports
+o MicroSD card reader
+o 3.5mm Audio in/out
+--watchmysys.com/blog/2018/01/compulab-fitlet2-review/
+
+
+Links
+=====
+CompuLab fitlet2 review
+https://watchmysys.com/blog/2018/01/compulab-fitlet2-review/
