@@ -69,6 +69,9 @@ fitlet2 computers
 https://fit-iot.com/web/products/fitlet2/
 ===> https://fit-iot.com/web/
 
+fitlet2 FAQ
+https://fit-iot.com/web/products/fitlet2/fitlet2-qa/
+
 firlet2 Owner's Manual
 https://s3.amazonaws.com/fit-iot/fitlet2/docs/fitlet2-owners-manual.pdf
 
