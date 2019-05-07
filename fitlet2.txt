@@ -39,6 +39,11 @@ o Storage: M.2 2260 SATA SSD (not included)
            Optional eMMC
            Optional 2.5” HDD | SSD 
 
+o SSD:                  Crucial MX500 1000GB 2.5 inch SSD
+                        6Gb/s SED
+                        model or p/n: CT1000MX500SSD1
+                        price: $259.99 (amazon prime - Feb 21, 2018)
+
 o Hard drive interface: Serial ATA-600
 o Weight:               1.49 pounds
 o Dimensions:           7.3 x 5.1 x 2.6 inches
