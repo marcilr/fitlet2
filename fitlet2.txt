@@ -58,6 +58,10 @@ price: $199.00 (amazon prime - Wed Jan 9, 2019)
        https://www.amazon.com/fitlet-FITLET2-CE3950-fitlet2-E3950-Barebone/dp/B0795V4W5G
 
 
+Wed May  8 21:11:02 AKDT 2019
+=============================
+Installed the crucial ssd to the fitlet2.  Very nice!
+
 
 Wed Mar  6 18:13:52 AKST 2019
 =============================
