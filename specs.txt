@@ -11,10 +11,16 @@ cpu: Atom x7-E3950
      4-core:
        $ cat /proc/cpuinfo | grep processor | wc -l ===> 4
      bits: 64
+     bogomips : 3187.20
+
 
 ram: 16GB
 ssd: Crucial MX500 1000GB 2.5 inch SSD
 
+dimensions: 112mm (4.4") x 84mm (3.3")
+            25mm thick (low-power models)
+            34mm thick (performance models)   <=== What I got
+            --https://fit-iot.com/web/products/fitlet2/
 
 o Intel Apollo Lake SoC: Atom x5-E3930, Celeron J3455, or Atom x7-E3950
 o Up to 16GB DDR3L-1866 Non-ECC (single SODIMM)
