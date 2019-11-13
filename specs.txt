@@ -17,6 +17,17 @@ cpu: Atom x7-E3950
 ram: 16GB
 ssd: Crucial MX500 1000GB 2.5 inch SSD
 
+power consumption:
+            5W to 15W
+            depending on configuration and system load
+            fitlet2-owners-manual.pdf, p. 5
+
+weight:     350g
+            fitlet2-owners-manual.pdf, p. 5
+
+warranty:   5 years
+            fitlet2-owners-manual.pdf, p. 5
+
 dimensions: 112mm (4.4") x 84mm (3.3")
             25mm thick (low-power models)
             34mm thick (performance models)   <=== What I got
