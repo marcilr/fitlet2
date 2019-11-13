@@ -6,6 +6,16 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Specifications for CompuLab fitlet2
 
 
+cpu: Atom x7-E3950
+     Intel(R) Atom(TM) Processor E3950 @ 1.60GHz (/proc/cpuinfo)
+     4-core:
+       $ cat /proc/cpuinfo | grep processor | wc -l ===> 4
+     bits: 64
+
+ram: 16GB
+ssd: Crucial MX500 1000GB 2.5 inch SSD
+
+
 o Intel Apollo Lake SoC: Atom x5-E3930, Celeron J3455, or Atom x7-E3950
 o Up to 16GB DDR3L-1866 Non-ECC (single SODIMM)
 o M.2 SATA storage
