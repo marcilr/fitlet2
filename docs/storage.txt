@@ -1,0 +1,28 @@
+storage.txt
+Created Wed 13 Nov 2019 02:29:05 PM AKST
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Storage
+
+
+fitlet2 supports the following main storage devices
+
+
+o M.2 SATA provides high performance and large storage capacity
+
+o 2.5″ HDD/SSD* is for extra capacity and for intensive write
+  operations like video recording
+
+o eMMC on an M.2 module is a low-cost storage solution for
+  price-sensitive applications
+
+The storage device is attached using specially designed M.2
+cooling plate that dissipates heat through the housing.
+
+*2.5″ storage device requires a special FACET card and raised
+bottom cover
+
+--fitlet2
+  Minature, Capable, Durable, IoT ready, Affordable
+  https://fit-iot.com/web/products/fitlet2/
