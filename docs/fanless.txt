@@ -1,0 +1,22 @@
+fanless.txt
+Created Wed 13 Nov 2019 02:32:48 PM AKST
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Fanless
+
+
+fitlet2 is designed with the failproof fanless cooling
+that Compulab pioneered and has been refining for over
+10 years:
+
+1. Make an all-metal housing that is thermally conductive,
+   and design it for effective convection cooling
+
+2. Thermally couple the hot-spots (CPU, SSD) to the housing
+
+3. Use the housing as the heatsink
+
+--fitlet2
+  Minature, Capable, Durable, IoT ready, Affordable
+  https://fit-iot.com/web/products/fitlet2/
