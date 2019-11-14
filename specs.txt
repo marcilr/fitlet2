@@ -49,3 +49,6 @@ Links
 =====
 CompuLab fitlet2 review
 https://watchmysys.com/blog/2018/01/compulab-fitlet2-review/
+
+fitlet2 specifications – fit IoT (Thu 14 nov 2019)
+https://fit-iot.com/web/products/fitlet2/fitlet2-specifications/
