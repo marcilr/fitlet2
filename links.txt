@@ -75,6 +75,9 @@ https://fit-iot.com/web/products/fitlet2/fitlet2-qa/
 firlet2 Owner's Manual
 https://s3.amazonaws.com/fit-iot/fitlet2/docs/fitlet2-owners-manual.pdf
 
+fitlet2 specifications – fit IoT (Thu 14 nov 2019)
+https://fit-iot.com/web/products/fitlet2/fitlet2-specifications/
+
 fitlet2 Wiki
 http://fit-pc.com/wiki/index.php?title=Fitlet2
 
