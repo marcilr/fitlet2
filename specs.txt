@@ -46,7 +46,10 @@ ports front: Power button, USB 3.0, Line-in, Line-out,
              --https://fit-iot.com/web/products/fitlet2/fitlet2-specifications/
              https://fit-iot.com/web/wp-content/uploads/2017/10/front-annotated.jpg
 
-power:       5W to 15W
+power:       5.1W to 10.5W measured with P3 International,
+             P4400 Kill A Watt meter on Thu Nov 14, 2019.
+             Git high value doing find on root filesystem.
+             i.e. Tracks well to specs of 5W to 15W
              depending on configuration and system load
              fitlet2-owners-manual.pdf, p. 5
 
