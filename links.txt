@@ -65,6 +65,14 @@ o mounting options: VESA and DIN-rail mounting
 o fitlet2 availability is 15 years
 https://liliputing.com/2018/06/mintbox-mini-2-launches-for-299-and-up-fanless-mini-pc-with-linux-mint-software.html
 
+fitlet2 (E3930 Barebone)
+by fitlet
+price: $210.00 (Thu 14 Nov 2019)
+https://www.amazon.com/fitlet-FITLET2-CE3930-fitlet2-E3930-Barebone/dp/B07BD1VWRW/ref=asc_df_B07BD1VWRW/?tag=hyprod-20&linkCode=df0&hvadid=385191927323&hvpos=1o1&hvnetw=g&hvrand=15905279204808921491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033841&hvtargid=aud-801381245258:pla-830714076676&psc=1&tag=&ref=&adgrpid=82240853001&hvpone=&hvptwo=&hvadid=385191927323&hvpos=1o1&hvnetw=g&hvrand=15905279204808921491&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033841&hvtargid=aud-801381245258:pla-830714076676
+
+fitlet2 specifications – fit IoT (Thu 14 nov 2019)
+https://fit-iot.com/web/products/fitlet2/fitlet2-specifications/
+
 fitlet2 computers
 https://fit-iot.com/web/products/fitlet2/
 ===> https://fit-iot.com/web/
