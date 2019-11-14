@@ -6,32 +6,60 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Specifications for CompuLab fitlet2
 
 
-cpu: Atom x7-E3950
-     Intel(R) Atom(TM) Processor E3950 @ 1.60GHz (/proc/cpuinfo)
-     4-core:
-       $ cat /proc/cpuinfo | grep processor | wc -l ===> 4
-     bits: 64
-     bogomips : 3187.20
+Cost
+====
+fitlet2:     FITLET2-CE3950 barebone                    - $199.00
+ram:         Crucial 16GB 204-Pin SODIMM CT204864BF160B - $153.99
+ssd:         Crucial MX500 1000GB 2.5 inch SSD          - $259.99
+                                                   --------------
+                                                   Total: $612.98
+
+Need verify with receipts and such.
 
 
-ram: 16GB
-ssd: Crucial MX500 1000GB 2.5 inch SSD
+cpu:         Intel Atom x7-E3950 quad-core 1.6Ghz
+             $ cat /proc/cpuinfo | grep processor | wc -l ===> 4
+             bits: 64
+             bogomips : 3187.20
 
-power consumption:
-            5W to 15W
-            depending on configuration and system load
-            fitlet2-owners-manual.pdf, p. 5
+ram:         Crucial 16GB Single DDR3L 1600 MT/s (PC3L-12800)
+             204-Pin SODIMM Memory - CT204864BF160B
+             by Crucial
+             $153.99 (amazon prime - Wed Jan. 9, 2018)
 
-weight:     350g
-            fitlet2-owners-manual.pdf, p. 5
+             Max 16GB DDR3 SDRAM
+             1x SO-DIMM 204-pin DDR3L SDRAM
+             Up to 16GB Non-ECC DDR3L-1866 (1.35V)
+             fitlet2-owners-manual.pdf, p. 5
 
-warranty:   5 years
-            fitlet2-owners-manual.pdf, p. 5
+ssd:         Crucial MX500 1000GB 2.5 inch SSD
+             6Gb/s SED
+             model or p/n: CT1000MX500SSD1
+             price: $259.99 (amazon prime - Feb 21, 2018)
 
-dimensions: 112mm (4.4") x 84mm (3.3")
-            25mm thick (low-power models)
-            34mm thick (performance models)   <=== What I got
-            --https://fit-iot.com/web/products/fitlet2/
+ports back:  2x USB 2.0, HDMI, mini DP, DC IN, LAN 1, LAN 2, RS232
+             --https://fit-iot.com/web/products/fitlet2/fitlet2-specifications/
+             https://fit-iot.com/web/wp-content/uploads/2017/10/back-annotated.jpg
+
+ports front: Power button, USB 3.0, Line-in, Line-out, 
+             LED 1, USB 3.0, LED 2, micro SD
+             --https://fit-iot.com/web/products/fitlet2/fitlet2-specifications/
+             https://fit-iot.com/web/wp-content/uploads/2017/10/front-annotated.jpg
+
+power:       5W to 15W
+             depending on configuration and system load
+             fitlet2-owners-manual.pdf, p. 5
+
+weight:      350g
+             fitlet2-owners-manual.pdf, p. 5
+
+warranty:    5 years
+             fitlet2-owners-manual.pdf, p. 5
+
+dimensions:  112mm (4.4") x 84mm (3.3")
+             25mm thick (low-power models)
+             34mm thick (performance models)   <=== What I got
+             --https://fit-iot.com/web/products/fitlet2/
 
 o Intel Apollo Lake SoC: Atom x5-E3930, Celeron J3455, or Atom x7-E3950
 o Up to 16GB DDR3L-1866 Non-ECC (single SODIMM)
