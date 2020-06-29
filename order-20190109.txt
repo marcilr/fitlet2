@@ -6,7 +6,7 @@ by Raymond E. Marcil <ray.marcil@alaska.gov>
 Fitlet2 fanless system
 
 
-Fitlet2                        - $199.00
+Fitlet2                        - $199.00 [1]
 Crucial 16GB Single DDR3L      - $153.99
 Transcend 256GB SATA III 6Gb/s -  $98.99
                         ----------------
@@ -21,9 +21,6 @@ o SSD:                  Crucial MX500 1000GB 2.5 inch SSD
                         6Gb/s SED
                         model or p/n: CT1000MX500SSD1
                         price: $259.99 (amazon prime - Feb 21, 2018)
-
-price: $199.00 (amazon prime - Wed Jan 9, 2019)
-       https://www.amazon.com/fitlet-FITLET2-CE3950-fitlet2-E3950-Barebone/dp/B0795V4W5G
 
 
 Wed May  8 21:11:02 AKDT 2019
@@ -91,6 +88,9 @@ Others bought:
 
 Links
 =====
+[1] price: $199.00 (amazon prime - Wed Jan 9, 2019)
+https://www.amazon.com/fitlet-FITLET2-CE3950-fitlet2-E3950-Barebone/dp/B0795V4W5G
+
 fanless, IoT technology
 by Compulab
 https://fit-iot.com/web/product-category/fitlet2facet/
