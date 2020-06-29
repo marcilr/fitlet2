@@ -5,6 +5,9 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 fitlet1 build for media station build
 
+fitlet2 (E3950 Barebone)   $199.00 (amazon prime - Mon June 29, 2020)
+Crucial 16GB Single DDR3L      - $153.99
+
 
 fitlet2 (E3950 Barebone)
   o Brand Name: Fitlet
@@ -27,3 +30,5 @@ fitlet2 (E3950 Barebone)
   o M.2 2260 SATA SSD (not included)
   Price: $199.00 & FREE Shipping. Details
          (amazon prime - June 29, 2020)
+
+Crucial 16GB Single DDR3L      - $153.99
