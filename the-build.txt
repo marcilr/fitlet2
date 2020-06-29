@@ -6,11 +6,13 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 fitlet1 build for media station build
 
 fitlet2 (E3950 Barebone)       - $199.00 (amazon prime - Mon June 29, 2020)
-Crucial 16GB Single DDR3L      - ~$82.00 <=== Need exact model on this one.
+Crucial 16GB CT204864BF160B  
+                    2x $133.57 = $267.14 (amazon prime - Mon June 29, 2020)
 Crucial MX500 2.5 SSD 2000GB   - $229.99 (amazon prime - Mon June 29, 2020)
 ----------------------------------------
-                        Total:   $510.99 (amazon prime - Mon June 29, 2020)
+                        Total:   $696.13 (amazon prime - Mon June 29, 2020)
 
+199 + 267.14 + 229.99 = $696.13
 
 Crucial MX500 2TB 3D NAND SATA 
 2.5 Inch Internal SSD, up to 560MB/s - CT2000MX500SSD1(Z)
@@ -20,7 +22,13 @@ amazon prime - Mon June 23, 2020
 
 NOTE: Google that the fitlet2 can hold up to 16GB ram.
 
-
+16GB ram to purchase:
+  Crucial 16GB Single DDR3L 1600 MT/s \                 <===
+  (PC3L-12800) 204-Pin SODIMM Memory - CT204864BF160B
+  by Crucial
+  price: $133.57 (amazon prime - Mon, June 29, 2020)
+  https://www.amazon.com/Crucial-Single-PC3L-12800-204-Pin-SODIMM/dp/B0123BRIDK/ref=pd_lpo_147_t_0/144-7780309-7087531?_encoding=UTF8&pd_rd_i=B0123BRIDK&pd_rd_r=898f0d50-98b3-440d-a261-9545f74d81f4&pd_rd_w=Q9lua&pd_rd_wg=beYGI&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=X0FYQFHV6B422Y5RPZBD&psc=1&refRID=X0FYQFHV6B422Y5RPZBD
+  
 Prior 8GB ram purchase:
   Search 2019 amazon orders for 'Crucial' find:
 
