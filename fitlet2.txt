@@ -1,0 +1,24 @@
+fitlet2.txt
+Created Mon 29 Jun 2020 09:12:30 AM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Fitlet2 fanless system
+fanless IoT technology
+by Compulab
+
+
+The hardware and housing of fitlet2 are designed 
+together from the ground-up to minimize size and 
+maximize capabilities, durability and thermal 
+performance.
+--fit-iot.com/web/products/fitlet2/
+
+
+
+Links
+=====
+fitlet2
+fanless IoT technology
+by Compulab
+https://fit-iot.com/web/products/fitlet2/
