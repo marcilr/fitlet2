@@ -5,9 +5,19 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 fitlet1 build for media station build
 
-fitlet2 (E3950 Barebone)   $199.00 (amazon prime - Mon June 29, 2020)
-Crucial 16GB Single DDR3L      - $153.99
+fitlet2 (E3950 Barebone)       - $199.00 (amazon prime - Mon June 29, 2020)
+Crucial 16GB Single DDR3L      - ~$82.00 <=== Need exact model on this one.
+Crucial MX500 2.5 SSD 2000GB   - $229.99 (amazon prime - Mon June 29, 2020)
+----------------------------------------
+                        Total:   $510.99 (amazon prime - Mon June 29, 2020)
 
+
+Crucial MX500 2TB 3D NAND SATA 
+2.5 Inch Internal SSD, up to 560MB/s - CT2000MX500SSD1(Z)
+by Crucial
+price: $229.99 & FREE Shipping.
+amazon prime - Mon June 23, 2020
+ 
 
 fitlet2 (E3950 Barebone)
   o Brand Name: Fitlet
