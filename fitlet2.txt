@@ -6,6 +6,32 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 Fitlet2 fanless system
 by Compulab
 
+o Brand:               fitlet
+o Series:              fitlet2 E3950 Barebone
+o Model number:        FITLET2-CE3950
+o CPU:                 Atom x7-E3950 quad-core 1.6Ghz
+o Processor brand:     Intel
+o Ram:                 Max 16GB DDR3 SDRAM
+                       DDR3L single SODIMM, not included
+                       1x SO-DIMM 204-pin DDR3L SDRAM
+                       Up to 16GB Non-ECC DDR3L-1866 (1.35V)
+                       fitlet2-owners-manual.pdf, p. 5       
+o Graphics 
+  coprocessor:         Intel HD Graphics 505
+o Dual display:        hdmi + mini-dp
+o Dual Gbit Eth:       Intel i211
+o Hard drive           Serial ATA-600 
+  interface
+o Weight:              1.49 pounds
+o First available:     January 6, 2018
+o ASIN:                B0795V4W5G
+o Power consumption:   5W to 15W
+o Rated:               4.8 out of 5 stars
+o Dimensions:          112mm x 84mm x 34mm 
+                       4.4" x 3.3" x 1.3"
+
+It is one of the smallest full-featured PCs on 
+the market.
 
 The hardware and housing of fitlet2 are designed 
 together from the ground-up to minimize size and 
