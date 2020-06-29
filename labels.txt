@@ -1,0 +1,47 @@
+labels.txt
+Created Mon 29 Jun 2020 10:05:40 AM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Thinks of building new media fitlet2.
+Took the orginal fitlet2 about to 
+verify components and build.
+
+Took pictures of all components.
+
+fitlet2: Compulab FC-CEM Rev 1.???  <=== Didn't get value after period
+         188C03110
+         217
+
+"FACET-Card stands for Function And Connectivity Extension T-Card"
+
+
+Storage: 1000GB Crucial MX500 2.5 SSD
+
+
+Storage
+=======
+Crucial MX500 2.5 SSD
+1000GB
+5V, 1.7A
+FW: M3CR023
+MDL: CT1000MX500SSD1
+P/N: CT1000MX500SSD1
+S/N: 1850E1DE0490
+SATA 6Gb/s SED
+Assembled in Mexico
+PSID: D7D09C3C-0CC6-F358-2B7D-5C7EC7151B5D
+
+
+Links
+=====
+[1] FACET-Card stands for Function And Connectivity Extension T-Card
+https://fit-pc.com/wiki/index.php?title=Fitlet2_FACET_Cards&mobileaction=toggle_view_mobile
+
+Fitlet2 product page
+https://fit-iot.com/web/products/fitlet2/
+
+This page provides technical information about fitlet2 FACET-Cards.
+https://fit-pc.com/wiki/index.php?title=Fitlet2
+
+
