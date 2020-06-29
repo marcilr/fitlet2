@@ -1,0 +1,29 @@
+the-build.txt
+Created Mon 29 Jun 2020 09:17:10 AM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+fitlet1 build for media station build
+
+
+fitlet2 (E3950 Barebone)
+  o Brand Name: Fitlet
+  o Series: Fitlet2 E3950 Barebone
+  o Item model number: FITLET2-CE3950
+  o Hardware Platform: PC
+  o Operating System: None
+  o Item Weight: 1.48 pounds
+  o Package Dimensions: 7.32 x 5.12 x 2.6 inches
+  o Processor Brand: Intel
+  o Processor Count: 1
+  o Computer Memory Type: Ddr3_sdram
+  --fitlet2 (E3950 Barebone)
+    https://www.amazon.com/fitlet-FITLET2-CE3950-fitlet2-E3950-Barebone/dp/B0795V4W5G/ref=sr_1_2?dchild=1&keywords=prime+fitlet2&qid=1593455028&s=electronics&sr=1-2
+
+  o CPU: Atom x7-E3950 quad-core
+  o Dual display HDMI + mini-DP
+  o Dual Gbit Ethernet (Intel i211)
+  o Up to 16 GB RAM (DDR3L single SODIMM, not included)
+  o M.2 2260 SATA SSD (not included)
+  Price: $199.00 & FREE Shipping. Details
+         (amazon prime - June 29, 2020)
