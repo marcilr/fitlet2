@@ -6,6 +6,16 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 Fitlet2 fanless system
 by Compulab
 
+
+"fitlet2 is based on quad-core Apollo-Lake Atom 
+with up to 16 GB RAM.
+
+It provides performance that not long ago required
+a Core CPU that could not be fitted in such a small
+passively-cooled footprint due to higher power 
+consumption."[1]
+
+
 o Brand:               fitlet
 o Series:              fitlet2 E3950 Barebone
 o Model number:        FITLET2-CE3950
@@ -43,6 +53,9 @@ performance.
 
 Links
 =====
+[1] fitlet2
+https://fit-iot.com/web/products/fitlet2/
+
 fitlet2
 fanless IoT technology
 by Compulab
