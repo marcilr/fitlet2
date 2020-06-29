@@ -1,0 +1,133 @@
+order-20200129.txt
+Created Mon 29 Jun 2020 09:17:10 AM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Order to build up media workstation 
+and my own malachite workstation.
+
+
+Media build
+===========
+
+
+
+Malachite build
+===============
+fitlet2 E3950 Barebone                         $183.00
+  fitlet2 with Atom X7-E3950 CPU.
+  SKU: FITLET2-CE3950
+  Category: fitlet2
+  Barebone: no RAM, no storage, no WiFi.
+  Assembled with a standard top cover 
+  included.
+  Note: RAM and storage must be purchased 
+  separately and installed for fitlet2 to work.
+  https://fit-iot.com/web/product/fitlet2-e3950-barebone/
+
+Backup box
+  fitlet2 with Atom X7-E3950 CPU.              $183.00
+  SKU: FITLET2-CE3950
+  Category: fitlet2
+  Barebone: no RAM, no storage, no WiFi.
+  Assembled with a standard top cover
+  included.
+  Note: RAM and storage must be purchased
+  separately and installed for fitlet2 to work.
+  https://fit-iot.com/web/product/fitlet2-e3950-barebone/
+
+
+
+
+
+fitlet1 build for media station build
+
+fitlet2 (E3950 Barebone)       - $199.00 (amazon prime - Mon June 29, 2020)
+Crucial 16GB CT204864BF160B  
+                    2x $133.57 = $267.14 (amazon prime - Mon June 29, 2020)
+Crucial MX500 2.5 SSD 2000GB   - $229.99 (amazon prime - Mon June 29, 2020)
+----------------------------------------
+                        Total:   $696.13 (amazon prime - Mon June 29, 2020)
+
+199 + 267.14 + 229.99 = $696.13
+
+Crucial MX500 2TB 3D NAND SATA 
+2.5 Inch Internal SSD, up to 560MB/s - CT2000MX500SSD1(Z)
+by Crucial
+price: $229.99 & FREE Shipping.
+amazon prime - Mon June 23, 2020
+
+NOTE: Google that the fitlet2 can hold up to 16GB ram.
+
+16GB ram to purchase:
+  Crucial 16GB Single DDR3L 1600 MT/s \                 <===
+  (PC3L-12800) 204-Pin SODIMM Memory - CT204864BF160B
+  by Crucial
+  price: $133.57 (amazon prime - Mon, June 29, 2020)
+  https://www.amazon.com/Crucial-Single-PC3L-12800-204-Pin-SODIMM/dp/B0123BRIDK/ref=pd_lpo_147_t_0/144-7780309-7087531?_encoding=UTF8&pd_rd_i=B0123BRIDK&pd_rd_r=898f0d50-98b3-440d-a261-9545f74d81f4&pd_rd_w=Q9lua&pd_rd_wg=beYGI&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=X0FYQFHV6B422Y5RPZBD&psc=1&refRID=X0FYQFHV6B422Y5RPZBD
+  
+Prior 8GB ram purchase:
+  Search 2019 amazon orders for 'Crucial' find:
+
+  Order details Ordered on November 21, 2016 (3 items)
+  Crucial 8GB Single DDR3L 1600 MT/s \
+  (PC3L-12800) SODIMM 204-Pin Memory - CT102464BF160B
+  Crucial
+
+  from crucial.com this is:
+    Crucial 8GB DDR3L-1600 SODIMM
+    CT102464BF160B
+    DDR3 PC3-12800 • CL=11 • Unbuffered • NON-ECC • \
+    DDR3-1600 • 1.35V • 1024Meg x 64 •
+    price: $46.99 (Mon, June 29, 2020)
+    https://www.crucial.com/memory/ddr3/ct102464bf160b
+    https://www.crucial.com/catalog/memory/ddr3
+   
+
+  from crucial.com also find 16gb stick:
+    Crucial 16GB DDR3L-1600 SODIMM
+    CT204864BF160B
+    DDR3 PC3-12800 • CL=11 • Unbuffered • NON-ECC • \
+    DDR3-1600 • 1.35V • 2048Meg x 64 •
+    price: $153.99 (Mon, June 29, 2020)
+    https://www.crucial.com/catalog/memory/ddr3
+    https://www.crucial.com/memory/ddr3/ct204864bf160b
+
+
+fitlet2 (E3950 Barebone)
+  o Brand Name: Fitlet
+  o Series: Fitlet2 E3950 Barebone
+  o Item model number: FITLET2-CE3950
+  o Hardware Platform: PC
+  o Operating System: None
+  o Item Weight: 1.48 pounds
+  o Package Dimensions: 7.32 x 5.12 x 2.6 inches
+  o Processor Brand: Intel
+  o Processor Count: 1
+  o Computer Memory Type: Ddr3_sdram
+  --fitlet2 (E3950 Barebone)
+    https://www.amazon.com/fitlet-FITLET2-CE3950-fitlet2-E3950-Barebone/dp/B0795V4W5G/ref=sr_1_2?dchild=1&keywords=prime+fitlet2&qid=1593455028&s=electronics&sr=1-2
+
+  o CPU: Atom x7-E3950 quad-core
+  o Dual display HDMI + mini-DP
+  o Dual Gbit Ethernet (Intel i211)
+  o Up to 16 GB RAM (DDR3L single SODIMM, not included)
+  o M.2 2260 SATA SSD (not included)
+  Price: $199.00 & FREE Shipping. Details
+         (amazon prime - June 29, 2020)
+
+Crucial 16GB Single DDR3L      - $153.99
+
+
+Links
+=====
+32 GB SATA SSD – form factor: M.2 2260
+price: $37.00 (Mon Jun 29, 2020)
+https://fit-iot.com/web/product/m2-2260-32gb/
+
+Crucial MX500 2TB 3D NAND SATA 2.5 Inch Internal SSD,
+up to 560MB/s - CT2000MX500SSD1(Z)
+by Crucial
+price: $229.99 (amazon prime - MOn June 29, 2020)
+https://www.amazon.com/Crucial-MX500-NAND-SATA-Internal/dp/B078C515QL/ref=asc_df_B078C515QL/?tag=hyprod-20&linkCode=df0&hvadid=309818716690&hvpos=&hvnetw=g&hvrand=12640737811590828495&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033841&hvtargid=pla-404506872606&psc=1
+
