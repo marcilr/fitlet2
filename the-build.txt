@@ -17,7 +17,37 @@ Crucial MX500 2TB 3D NAND SATA
 by Crucial
 price: $229.99 & FREE Shipping.
 amazon prime - Mon June 23, 2020
- 
+
+NOTE: Google that the fitlet2 can hold up to 16GB ram.
+
+
+Prior 8GB ram purchase:
+  Search 2019 amazon orders for 'Crucial' find:
+
+  Order details Ordered on November 21, 2016 (3 items)
+  Crucial 8GB Single DDR3L 1600 MT/s \
+  (PC3L-12800) SODIMM 204-Pin Memory - CT102464BF160B
+  Crucial
+
+  from crucial.com this is:
+    Crucial 8GB DDR3L-1600 SODIMM
+    CT102464BF160B
+    DDR3 PC3-12800 • CL=11 • Unbuffered • NON-ECC • \
+    DDR3-1600 • 1.35V • 1024Meg x 64 •
+    price: $46.99 (Mon, June 29, 2020)
+    https://www.crucial.com/memory/ddr3/ct102464bf160b
+    https://www.crucial.com/catalog/memory/ddr3
+   
+
+  from crucial.com also find 16gb stick:
+    Crucial 16GB DDR3L-1600 SODIMM
+    CT204864BF160B
+    DDR3 PC3-12800 • CL=11 • Unbuffered • NON-ECC • \
+    DDR3-1600 • 1.35V • 2048Meg x 64 •
+    price: $153.99 (Mon, June 29, 2020)
+    https://www.crucial.com/catalog/memory/ddr3
+    https://www.crucial.com/memory/ddr3/ct204864bf160b
+
 
 fitlet2 (E3950 Barebone)
   o Brand Name: Fitlet
