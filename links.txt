@@ -44,6 +44,12 @@ NOTE: Requires 2280 form factor support
 price: $89.99 (amazon prime - Wed Jan 9, 2019)
 https://www.amazon.com/Crucial-500GB-NAND-NVMe-PCIe/dp/B07J2WBKXF/ref=asc_df_B07J2WBKXF/?tag=hyprod-20&linkCode=df0&hvadid=309751315916&hvpos=1o1&hvnetw=g&hvrand=9438859819253408468&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060447&hvtargid=aud-466346483690:pla-563322790304&psc=1&tag=&ref=&adgrpid=67183599252&hvpone=&hvptwo=&hvadid=309751315916&hvpos=1o1&hvnetw=g&hvrand=9438859819253408468&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060447&hvtargid=aud-466346483690:pla-563322790304
 
+Crucial MX500 2TB 3D NAND SATA 2.5 Inch Internal SSD, 
+up to 560MB/s - CT2000MX500SSD1(Z)
+by Crucial
+price: $229.99 (amazon prime - MOn June 29, 2020)
+https://www.amazon.com/Crucial-MX500-NAND-SATA-Internal/dp/B078C515QL/ref=asc_df_B078C515QL/?tag=hyprod-20&linkCode=df0&hvadid=309818716690&hvpos=&hvnetw=g&hvrand=12640737811590828495&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033841&hvtargid=pla-404506872606&psc=1
+
 fanless mini PC with Linux
 Mintbox Mini 2 launches for $299 and up (fanless mini PC with Linux Mint software)
 06/27/2018 at 12:40 PM by Brad Linder
@@ -77,6 +83,10 @@ fitlet2 (E3930 Barebone)
 by fitlet
 price: $210.00 (Thu 14 Nov 2019)
 https://www.amazon.com/fitlet-FITLET2-CE3930-fitlet2-E3930-Barebone/dp/B07BD1VWRW/ref=asc_df_B07BD1VWRW/?tag=hyprod-20&linkCode=df0&hvadid=385191927323&hvpos=1o1&hvnetw=g&hvrand=15905279204808921491&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033841&hvtargid=aud-801381245258:pla-830714076676&psc=1&tag=&ref=&adgrpid=82240853001&hvpone=&hvptwo=&hvadid=385191927323&hvpos=1o1&hvnetw=g&hvrand=15905279204808921491&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033841&hvtargid=aud-801381245258:pla-830714076676
+
+fitlet2 – build-to-order
+price: $198.00 (Mon Jun 29, 2020)
+https://fit-iot.com/web/product/fitlet2-build-to-order/
 
 fitlet2 specifications – fit IoT (Thu 14 nov 2019)
 https://fit-iot.com/web/products/fitlet2/fitlet2-specifications/
@@ -135,6 +145,13 @@ by Samsung
 o 256GB
 o price: $49.99 (amazon prime - Thu Jan. 10, 2019)
 https://www.amazon.com/Samsung-MUF-64AB-AM-Plus-64GB/dp/B07D7Q41PM/ref=pd_lpo_vtph_147_lp_t_3?_encoding=UTF8&refRID=E5278R44ZFCEKEDWYGE1&th=1
+
+fitlet2 standard top cover
+price: $12.00
+The nice cooling cover that I like.
+"Note: This part is normally included in fitlet2.
+It is rarely required to order this part separately."
+https://fit-iot.com/web/product/fitlet2-standard-top-cover/
 
 Transcend 256GB SATA III 6Gb/s MTS400 42 mm <===
 M.2 SSD Solid State Drive (TS256GMTS400S)
