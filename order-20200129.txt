@@ -3,28 +3,22 @@ Created Mon 29 Jun 2020 09:17:10 AM AKDT
 Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Order to build up media workstation 
+fitlet2 rrder to build up media workstation 
 and my own malachite workstation.
 
 
-1x Atom x7-E3950 [CE3950] (cpu)     $61.60
-1x 16 GB [D16] (ram)               $186.00
+2x fitlet2 w/16 GB ram        2x $384.00 = $768.00
+3x Crucial MX500 2TB SSD      3x $229.99 = $689.97
+                              --------------------
+                                Total:   $1,457.97
 
-Storage not installed                $0.00
-FACET cards not installed            $0.00
-WiFi not installed                   $0.00
 
-Top cover: Standard top cover
-Branding:  Standard fitlet2 branding
-Temperature range:
-  Commercial temperature range 0°C to 45°C
+Purchasing 2x more fitlet2.  One for malachite
+and the other for backup box.
 
-DC Input                No additional cost
-Standard DC input range 7V – 20V
-SKU: FITLET2
-Category: fitlet2 build to order
-                          ----------------
-                          price:   $384.00
+NOTE: 1 spare Crucial MX500 2TB SSD to replace
+      that in living room workstation or just
+      spare.
 
 
 Please allow 6 weeks for preparing the 
@@ -53,6 +47,7 @@ fitlet2 E3950 Barebone                         $183.00
   separately and installed for fitlet2 to work.
   https://fit-iot.com/web/product/fitlet2-e3950-barebone/
 
+
 Backup box
   fitlet2 with Atom X7-E3950 CPU.              $183.00
   SKU: FITLET2-CE3950
@@ -77,10 +72,6 @@ https://www.amazon.com/Crucial-MX500-NAND-SATA-Internal/dp/B078C515QL/ref=asc_df
 
 Links
 =====
-32 GB SATA SSD – form factor: M.2 2260
-price: $37.00 (Mon Jun 29, 2020)
-https://fit-iot.com/web/product/m2-2260-32gb/
-
 Crucial MX500 2TB 3D NAND SATA 2.5 Inch Internal SSD,
 up to 560MB/s - CT2000MX500SSD1(Z)
 by Crucial
