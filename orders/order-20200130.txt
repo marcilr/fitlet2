@@ -1,0 +1,114 @@
+order-20200130.txt
+Created Tue 30 Jun 2020 02:31:32 PM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+fitlet2 order for new malachite workstation
+and archive box.
+
+
+fitlet2 by Compulab              $858.00 USD
+Crucial MX500 2TB SSD  2x $229 = 
+
+
+2x fitlet2 E3950 barebone    2x $183 = $366
+2x 16 GB RAM for fitlet2     2x $187 = $374
+2.5″ HDD compartment         2x  $23 = $46
+  for fitlet2
+                          Subtotal:    $786
+                      Express shipping: $72   (Default - only choice)
+                      ---------------------
+                             Total:    $858
+
+Checkout via paypal marcilr@gmail.com, my akusa
+ 
+
+Tue 30 Jun 2020 02:47:51 PM AKDT
+================================
+You paid $858.00 USD
+to Compulab Ltd.
+Details
+
+2x fitlet2 E3950 Barebone             $183.00 USD
+Item #: FITLET2-CE3950
+
+2x 16 GB RAM for fitlet2              $187.00 USD
+Item #: FITLET2-PARTS-D16
+
+2x 2.5" HDD compartment for fitlet2    $23.00 USD
+Item #: FITLET2-PARTS-HD0
+
+Subtotal                              $786.00 USD
+Tax                                     $0.00 USD
+Shipping                               $72.00 USD
+Insurance                               $0.00 USD
+Handling                                $0.00 USD
+-------------------------------------------------
+Total                                 $858.00 USD
+
+Looks good!
+
+Please allow 6 weeks for preparing the 
+built-to-order units.
+
+--fitlet2 – build-to-order
+  https://fit-iot.com/web/product/fitlet2-build-to-order/
+
+
+Crucial MX500 2TB SSD
+=====================
+Crucial MX500 2TB 3D NAND SATA 2.5 Inch Internal SSD,
+up to 560MB/s - CT2000MX500SSD1(Z)
+Capacity: 2TB
+price: $229.99 (amazon prime - Mon June 29, 2020)
+
+
+
+fitlet2 E3950 Barebone
+======================
+fitlet2 with Atom X7-E3950 CPU.
+SKU: FITLET2-CE3950
+Category: fitlet2
+Barebone: no RAM, no storage, no WiFi.
+Assembled with a standard top cover 
+included.
+Note: RAM and storage must be purchased 
+separately and installed for fitlet2 to work
+price: fitlet 2 barebone: $183
+       16 GB ram:         $187
+       2.5 HDD cprt:       $23
+https://fit-iot.com/web/product/fitlet2-e3950-barebone/
+
+
+Crucial MX500 2TB 3D NAND SATA 2.5 Inch Internal SSD,
+up to 560MB/s - CT2000MX500SSD1(Z)
+Capacity: 2TB
+price: $229.99 (amazon prime - Mon June 29, 2020)
+https://www.amazon.com/Crucial-MX500-NAND-SATA-Internal/dp/B078C515QL/ref=asc_df_B078C515QL/?tag=hyprod-20&linkCode=df0&hvadid=309818716690&hvpos=&hvnetw=g&hvrand=12640737811590828495&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033841&hvtargid=pla-404506872606&psc=1
+
+
+
+Links
+=====
+2.5″ HDD compartment for fitlet2   <===
+SKU: FITLET2-PARTS-HD0
+Category: RAM & storage
+https://fit-iot.com/web/product/2-5-hdd-compartment-for-fitlet2/
+
+Buy fit-IoT products
+https://fit-iot.com/web/buy/
+
+Crucial MX500 2TB 3D NAND SATA 2.5 Inch Internal SSD,
+up to 560MB/s - CT2000MX500SSD1(Z)
+by Crucial
+price: $229.99 (amazon prime - Mon June 29, 2020)
+https://www.amazon.com/Crucial-MX500-NAND-SATA-Internal/dp/B078C515QL/ref=asc_df_B078C515QL/?tag=hyprod-20&linkCode=df0&hvadid=309818716690&hvpos=&hvnetw=g&hvrand=12640737811590828495&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033841&hvtargid=pla-404506872606&psc=1
+
+fitlet2 build-to-order   <===
+https://fit-iot.com/web/products/fitlet2/buy-fitlet2/
+
+fitlet2 – fit IoT
+https://fit-iot.com/web/products/fitlet2/
+
+fitlet2 specifications – fit IoT
+https://fit-iot.com/web/products/fitlet2/fitlet2-specifications/
