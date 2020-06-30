@@ -4,7 +4,7 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Thinks of building new media fitlet2.
-Took the orginal fitlet2 about to 
+Looked at orginal fitlet2 about to 
 verify components and build.
 
 Took pictures of all components.
