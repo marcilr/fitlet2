@@ -11,6 +11,9 @@ fanless.txt
 labels.txt
   Labels from inspection of fitlet2 inside and out.
 
+specs.txt
+  Specifications for Compulab fitlet2
+
 storage.txt
   Storage for fitlet2
 
