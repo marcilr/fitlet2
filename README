@@ -29,6 +29,9 @@ specs/
 storage/
   Storage
 
-wireless.txt
+the-build/
+  the Build
+
+wireless/
   Fitlet2 wireless
 
