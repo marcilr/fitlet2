@@ -1,0 +1,6 @@
+the-build.txt
+Created Tue 30 Jun 2020 01:47:16 PM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+the build
