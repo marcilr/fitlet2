@@ -8,6 +8,9 @@ Filelist
 fanless.txt
   Fanless
 
+labels.txt
+  Labels from inspection of fitlet2 inside and out.
+
 storage.txt
   Storage for fitlet2
 
