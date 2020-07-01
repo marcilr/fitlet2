@@ -7,8 +7,22 @@ fitlet2 order for new malachite workstation
 and archive box.
 
 
-fitlet2 by Compulab              $858.00 USD
-Crucial MX500 2TB SSD  2x $229 = 
+2x fitlet2 E3950 barebone    2x $183 = $366
+2x 16 GB RAM for fitlet2     2x $187 = $374
+2.5″ HDD compartment         2x  $23 = $46
+  for fitlet2             -----------------
+                          Subtotal:    $786
+                      Express shipping: $72   (Default - only choice)
+                      ---------------------
+                              Total:   $858
+
+
+Crucial MX500 2.5"     2x $229.99 = $459.98   amazon prime
+2TB SATA SSD       ------------------------
+                   Grand total:   $1,317.98
+
+
+858+459.98 = $1,317.98
 
 
 
@@ -80,8 +94,6 @@ Looks good!
 
 Please allow 6 weeks for preparing the 
 built-to-order units.
-
-
 
 
 --fitlet2 – build-to-order
