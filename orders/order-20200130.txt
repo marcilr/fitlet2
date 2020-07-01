@@ -4,7 +4,13 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 fitlet2 order for new malachite workstation
-and archive box.
+and archive box.  Two fanless fitlet2 boxes
+with 16GB ram and 1TB SATA SSD.
+
+Good stuff!
+
+TODO: Need to inspect inhouse hdmi cabling
+      available.
 
 
 2x fitlet2 E3950 barebone    2x $183 = $366
