@@ -31,6 +31,24 @@ Crucial MX500 2.5"     2x $229.99 = $459.98   amazon prime
 858+459.98 = $1,317.98
 
 
+Thu Jul  2 22:27:09 UTC 2020
+============================
+Check tha tracker link shows "Shipped today"
+
+Gmail from amazon that:
+"Your Amazon.com order #114-4324435-4425834 has shipped"
+
+Amazon Shipping Confirmation
+https://www.amazon.com?ie=UTF8&ref_=scr_home
+
+____________________________________________________________________
+
+Hi Raymond, your package will arrive:
+Sunday, July 5
+
+Track your package:
+https://www.amazon.com/gp/your-account/ship-track?ie=UTF8&orderId=114-4324435-4425834&packageIndex=0&shipmentId=D4GCQZqZS&ref_=scr_pt_tp_t
+
 
 Tue 30 Jun 2020 02:47:51 PM AKDT
 ================================
