@@ -6,9 +6,10 @@ by Raymond E. Marcil <marcilr@gmail.com>
 Storage
 
 
+
+fitlet2
+=======
 fitlet2 supports the following main storage devices
-
-
 o M.2 SATA provides high performance and large storage capacity
 
 o 2.5″ HDD/SSD* is for extra capacity and for intensive write
