@@ -8,6 +8,7 @@ Filelist
 parted.txt
   Use of parted to configure 1TB Crucial CT1000MX500SSD1
   SSD drive on Tue 12 May 2020
+  Moved to parted-20200512.txt to make room for new parted.txt
 
 storage.txt
   Storage for fitlet2
