@@ -28,6 +28,9 @@ index.html
 links.txt
   Fitlet2 related links
 
+manifest
+  Manifest file for use by resync script
+
 net/
   Network
 
