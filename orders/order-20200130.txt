@@ -4,12 +4,50 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 fitlet2 order for new malachite workstation
-and archive box.
+and archive box.  Two fanless fitlet2 boxes
+with 16GB ram and 1TB SATA SSD.
+
+Good stuff!
+
+TODO: Need to inspect inhouse hdmi cabling
+      available.
 
 
-fitlet2 by Compulab              $858.00 USD
-Crucial MX500 2TB SSD  2x $229 = 
+2x fitlet2 E3950 barebone    2x $183 = $366
+2x 16 GB RAM for fitlet2     2x $187 = $374
+2.5″ HDD compartment         2x  $23 = $46
+  for fitlet2             -----------------
+                          Subtotal:    $786
+                      Express shipping: $72   (Default - only choice)
+                      ---------------------
+                              Total:   $858
 
+
+Crucial MX500 2.5"     2x $229.99 = $459.98   amazon prime
+2TB SATA SSD       ------------------------
+                   Grand total:   $1,317.98
+
+
+858+459.98 = $1,317.98
+
+
+Thu Jul  2 22:27:09 UTC 2020
+============================
+Check tha tracker link shows "Shipped today"
+
+Gmail from amazon that:
+"Your Amazon.com order #114-4324435-4425834 has shipped"
+
+Amazon Shipping Confirmation
+https://www.amazon.com?ie=UTF8&ref_=scr_home
+
+____________________________________________________________________
+
+Hi Raymond, your package will arrive:
+Sunday, July 5
+
+Track your package:
+https://www.amazon.com/gp/your-account/ship-track?ie=UTF8&orderId=114-4324435-4425834&packageIndex=0&shipmentId=D4GCQZqZS&ref_=scr_pt_tp_t
 
 
 Tue 30 Jun 2020 02:47:51 PM AKDT
@@ -80,8 +118,6 @@ Looks good!
 
 Please allow 6 weeks for preparing the 
 built-to-order units.
-
-
 
 
 --fitlet2 – build-to-order

@@ -14,8 +14,25 @@ fanless/
 fitlet2.txt
   Fitlet2 fanless system
 
+
+index.html
+  Fitlet2 fanless system
+  by Compulab
+
+  The hardware and housing of fitlet2 are designed
+  together from the ground-up to minimize size and
+  maximize capabilities, durability and thermal
+  performance.
+  https://fit-iot.com/web/products/fitlet2/
+
 links.txt
   Fitlet2 related links
+
+manifest
+  Manifest file for use by resync script
+
+net/
+  Network
 
 orders/
   Orders

@@ -1,0 +1,43 @@
+shipped-20200630.txt
+Created Wed 01 Jul 2020 10:48:19 AM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Gmail from Compulab that the order shipped.
+
+This the 2x fitlet2 ordered in shipped-20200630.txt
+yesterday on Tue Jun 30, 2020
+
+fitlet order
+------------
+2x fitlet2 E3950 barebone    2x $183 = $366
+2x 16 GB RAM for fitlet2     2x $187 = $374
+2.5″ HDD compartment         2x  $23 = $46
+  for fitlet2
+                          Subtotal:    $786
+                      Express shipping: $72   (Default - only choice)
+                      ---------------------
+                             Total:    $858
+
+
+
+
+Raymond Marcil Shipment from CompuLab
+
+Elad Ben-Ari <fitpclogistics@compulab.co.il>
+Attachments
+Tue, Jun 30, 10:50 PM (11 hours ago)
+to me, mickael
+
+Dear Raymond,
+
+I am pleased to inform you that your order #8D552845171481038 / 9404 
+will be sent today via UPS, waybill #1ZA559410498600582 . 
+
+Please find the invoice attached .
+
+An original invoice is included with the shipment.
+Best regards,
+Elad Ben-Ari
+fit-PC logistics
+Compulab

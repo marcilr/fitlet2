@@ -1,0 +1,217 @@
+parted.txt
+Created Tue 12 May 2020 08:19:04 PM AKDT
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Use of parted to configure 1TB Crucial CT1000MX500SSD1 
+SSD drive
+
+# parted /dev/sda                                
+GNU Parted 3.2
+Using /dev/sda
+Welcome to GNU Parted! Type 'help' to view a list of commands.
+(parted) p                                                                
+Model: ATA CT1000MX500SSD1 (scsi)
+Disk /dev/sda: 1000GB
+Sector size (logical/physical): 512B/4096B
+Partition Table: gpt
+Disk Flags: 
+
+Number  Start   End    Size   File system  Name  Flags
+ 1      1049kB  538MB  537MB  fat32              boot, esp
+ 2      538MB   101GB  100GB  ext4
+ 3      101GB   201GB  100GB  ext4
+ 4      201GB   301GB  100GB  ext4
+
+(parted) mkpart virtualbox ext4 586985472s 782297087s                     
+(parted) p                                                                
+Model: ATA CT1000MX500SSD1 (scsi)
+Disk /dev/sda: 1000GB
+Sector size (logical/physical): 512B/4096B
+Partition Table: gpt
+Disk Flags: 
+
+Number  Start   End    Size   File system  Name        Flags
+ 1      1049kB  538MB  537MB  fat32                    boot, esp
+ 2      538MB   101GB  100GB  ext4
+ 3      101GB   201GB  100GB  ext4
+ 4      201GB   301GB  100GB  ext4
+ 5      301GB   401GB  100GB  ext4         virtualbox
+
+(parted)
+
+Looks good.
+
+However not formatted yet:
+
+# parted /dev/sda                                
+GNU Parted 3.2
+Using /dev/sda
+Welcome to GNU Parted! Type 'help' to view a list of commands.
+(parted) p                                                                
+Model: ATA CT1000MX500SSD1 (scsi)
+Disk /dev/sda: 1000GB
+Sector size (logical/physical): 512B/4096B
+Partition Table: gpt
+Disk Flags: 
+
+Number  Start   End    Size   File system  Name        Flags
+ 1      1049kB  538MB  537MB  fat32                    boot, esp
+ 2      538MB   101GB  100GB  ext4
+ 3      101GB   201GB  100GB  ext4
+ 4      201GB   301GB  100GB  ext4
+ 5      301GB   401GB  100GB               virtualbox
+
+(parted) quit
+
+# mkfs.ext4 /dev/sda5
+mke2fs 1.44.5 (15-Dec-2018)
+Discarding device blocks: done                            
+Creating filesystem with 24413952 4k blocks and 6111232 inodes
+Filesystem UUID: 61780473-360e-4247-8f81-a352968e8ffe
+Superblock backups stored on blocks: 
+	32768, 98304, 163840, 229376, 294912, 819200, 884736, 1605632, 2654208, 
+	4096000, 7962624, 11239424, 20480000, 23887872
+
+Allocating group tables: done                            
+Writing inode tables: done                            
+Creating journal (131072 blocks): done
+Writing superblocks and filesystem accounting information: done   
+
+# 
+
+Yeh hah that worked!
+
+Test mounting:
+# mount /dev/sda5 /usr/local/VirtualBox\ VMs/
+$ mount | grep sda5
+/dev/sda5 on /usr/local/VirtualBox VMs type ext4 (rw,relatime)
+$ 
+
+$ df -h | grep sda5
+/dev/sda5        92G   61M   87G   1% /usr/local/VirtualBox VMs
+$ 
+
+Success!
+
+Update /etc/fstab:
+
+
+/usr/local/VirtualBox\ VMs/
+
+
+
+
+Check alignment:
+
+(parted) align-check optimal 1                                            
+1 aligned
+(parted)
+
+--Parted
+  archlinux
+  https://wiki.archlinux.org/index.php/Parted#Create_new_partition_table
+
+
+# lsblk                                          
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 931.5G  0 disk 
+├─sda1   8:1    0   512M  0 part /boot/efi
+├─sda2   8:2    0  93.1G  0 part /
+├─sda3   8:3    0  93.1G  0 part 
+├─sda4   8:4    0  93.1G  0 part /usr/local
+└─sda5   8:5    0  93.1G  0 part 
+# 
+
+An sgdisk Walkthrough
+by Rod Smith, rodsmith@rodsbooks.com
+https://www.rodsbooks.com/gdisk/sgdisk-walkthrough.html
+
+
+# parted /dev/sda
+GNU Parted 3.2
+Using /dev/sda
+Welcome to GNU Parted! Type 'help' to view a list of commands.
+(parted) p
+Model: ATA CT1000MX500SSD1 (scsi)
+Disk /dev/sda: 1000GB
+Sector size (logical/physical): 512B/4096B
+Partition Table: gpt
+Disk Flags: 
+
+Number  Start   End    Size   File system  Name  Flags
+ 1      1049kB  538MB  537MB  fat32              boot, esp
+ 2      538MB   101GB  100GB  ext4
+ 3      101GB   201GB  100GB  ext4
+ 4      201GB   301GB  100GB  ext4
+ 5      301GB   401GB  100GB
+
+(parted) 
+
+
+----------------------------------
+
+# parted /dev/sda
+GNU Parted 3.2
+Using /dev/sda
+Welcome to GNU Parted! Type 'help' to view a list of commands.
+(parted) p                                                                
+Model: ATA CT1000MX500SSD1 (scsi)
+Disk /dev/sda: 1000GB
+Sector size (logical/physical): 512B/4096B
+Partition Table: gpt
+Disk Flags: 
+
+Number  Start   End    Size   File system  Name  Flags
+ 1      1049kB  538MB  537MB  fat32              boot, esp
+ 2      538MB   101GB  100GB  ext4
+ 3      101GB   201GB  100GB  ext4
+ 4      201GB   301GB  100GB  ext4
+ 5      301GB   401GB  100GB
+
+(parted) mkpart                                                           
+Partition name?  []? virtualbox
+File system type?  [ext2]? ext4                                           
+Start? 586985472s                                                         
+End? 782297087s                                                           
+Warning: You requested a partition from 301GB to 401GB (sectors 586985472..782297087).
+The closest location we can manage is 401GB to 401GB (sectors 782297088..782297088).
+Is this still acceptable to you?
+Yes/No? Yes
+(parted) p                                                                
+Model: ATA CT1000MX500SSD1 (scsi)
+Disk /dev/sda: 1000GB
+Sector size (logical/physical): 512B/4096B
+Partition Table: gpt
+Disk Flags: 
+
+Number  Start   End    Size   File system  Name        Flags
+ 1      1049kB  538MB  537MB  fat32                    boot, esp
+ 2      538MB   101GB  100GB  ext4
+ 3      101GB   201GB  100GB  ext4
+ 4      201GB   301GB  100GB  ext4
+ 5      301GB   401GB  100GB
+ 6      401GB   401GB  512B   ext4         virtualbox
+
+(parted)
+
+Did not work.  Remove partition 6:
+(parted) rm 6
+(parted) print                                                            
+Model: ATA CT1000MX500SSD1 (scsi)
+Disk /dev/sda: 1000GB
+Sector size (logical/physical): 512B/4096B
+Partition Table: gpt
+Disk Flags: 
+
+Number  Start   End    Size   File system  Name  Flags
+ 1      1049kB  538MB  537MB  fat32              boot, esp
+ 2      538MB   101GB  100GB  ext4
+ 3      101GB   201GB  100GB  ext4
+ 4      201GB   301GB  100GB  ext4
+ 5      301GB   401GB  100GB
+
+(parted) quit                                                             
+Information: You may need to update /etc/fstab.
+
+#
